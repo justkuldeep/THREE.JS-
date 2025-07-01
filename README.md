@@ -68,8 +68,34 @@ renderer.render(scene,camera);
 
 ![Screenshot 2025-07-01 112845](https://github.com/user-attachments/assets/91d7a16c-0269-44ab-bb1c-9f3890722ccd)
 
+---
+
 
 Let's Understand, How it works ?
 
 Firstly, In **three.js**, we are making a 3D-movie.
+
+🎬 Key Components to Create Any 3D Movie (Using Three.js or Any 3D Engine)
+To build any 3D experience, you need **4** essential components:
+
+**Scene 🏞️** : 
+The 3D space or virtual world where everything exists.
+
+> Think of it as an empty stage waiting to be filled.
+
+**Objects 📦** : 
+The physical or visual elements inside the scene — like cubes, models, lights, etc.
+
+> These are the “actors” of your 3D movie.
+
+**Camera 🎥** : 
+Represents the viewer’s perspective. It decides what part of the scene the audience sees and from what angle.
+
+>It's like the eye of the viewer or the lens of the camera.
+
+**Renderer (or Director) 🎬** : 
+The engine that renders the final output by converting the scene and camera view into pixels on your screen.
+
+> It's the “director” that brings everything together and shows it to the audience.
+
 
